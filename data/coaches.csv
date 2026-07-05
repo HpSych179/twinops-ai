@@ -1,0 +1,11 @@
+coach_id,coach_type,manufacture_year,last_overhaul,assigned_route,total_lifetime_hours
+RC-1001,AC Sleeper,2015,2023-06-15,Mumbai-Delhi Express,42500
+RC-1002,AC Chair Car,2018,2024-01-20,Rajdhani Express,28300
+RC-1003,General,2010,2022-11-10,Passenger Local,67800
+RC-1004,AC Sleeper,2019,2024-03-05,Shatabdi Express,19200
+RC-1005,AC Chair Car,2016,2023-09-22,Duronto Express,38700
+RC-1006,Pantry Car,2014,2023-04-18,Mumbai-Howrah Mail,51200
+RC-1007,General,2012,2022-08-30,Intercity Express,59400
+RC-1008,AC Sleeper,2020,2024-05-10,Vande Bharat Express,14600
+RC-1009,AC Chair Car,2017,2023-12-01,Garib Rath,33100
+RC-1010,General,2011,2022-05-15,Passenger Local,72300

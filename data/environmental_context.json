@@ -1,0 +1,94 @@
+{
+  "routes": {
+    "Mumbai-Delhi Express": {
+      "climate_zones": ["Humid Coastal", "Arid Plains", "Semi-arid"],
+      "avg_humidity_percent": 68,
+      "avg_temp_celsius": 32,
+      "dust_exposure": "medium",
+      "corrosion_risk": "high",
+      "wear_multiplier": 1.25,
+      "notes": "High humidity near Mumbai coast. Salt-laden air increases corrosion. Arid zones bring dust ingress."
+    },
+    "Rajdhani Express": {
+      "climate_zones": ["Humid Subtropical", "Semi-arid"],
+      "avg_humidity_percent": 55,
+      "avg_temp_celsius": 28,
+      "dust_exposure": "low",
+      "corrosion_risk": "medium",
+      "wear_multiplier": 1.10,
+      "notes": "Controlled schedule, premium maintenance priority. Lower wear overall."
+    },
+    "Passenger Local": {
+      "climate_zones": ["Varied"],
+      "avg_humidity_percent": 72,
+      "avg_temp_celsius": 33,
+      "dust_exposure": "high",
+      "corrosion_risk": "high",
+      "wear_multiplier": 1.40,
+      "notes": "Frequent stop-start operation. High passenger density. Elevated wear on brakes and doors."
+    },
+    "Shatabdi Express": {
+      "climate_zones": ["Humid Subtropical", "Tropical"],
+      "avg_humidity_percent": 60,
+      "avg_temp_celsius": 30,
+      "dust_exposure": "low",
+      "corrosion_risk": "medium",
+      "wear_multiplier": 1.15,
+      "notes": "Day service, controlled maintenance. Modern fleet — lower risk."
+    },
+    "Duronto Express": {
+      "climate_zones": ["Varied", "Tropical"],
+      "avg_humidity_percent": 65,
+      "avg_temp_celsius": 31,
+      "dust_exposure": "medium",
+      "corrosion_risk": "medium",
+      "wear_multiplier": 1.20,
+      "notes": "Non-stop service. High speed sustained. Bogie and brake wear elevated."
+    },
+    "Mumbai-Howrah Mail": {
+      "climate_zones": ["Humid Coastal", "Tropical", "Humid Continental"],
+      "avg_humidity_percent": 78,
+      "avg_temp_celsius": 34,
+      "dust_exposure": "medium",
+      "corrosion_risk": "very_high",
+      "wear_multiplier": 1.35,
+      "notes": "Crosses multiple climate zones. High humidity throughout. Salt corrosion risk near coasts."
+    },
+    "Intercity Express": {
+      "climate_zones": ["Semi-arid", "Tropical"],
+      "avg_humidity_percent": 58,
+      "avg_temp_celsius": 35,
+      "dust_exposure": "high",
+      "corrosion_risk": "medium",
+      "wear_multiplier": 1.30,
+      "notes": "High temperature regions. Dust ingress into axle boxes and bogies is a known issue."
+    },
+    "Vande Bharat Express": {
+      "climate_zones": ["Humid Subtropical"],
+      "avg_humidity_percent": 50,
+      "avg_temp_celsius": 27,
+      "dust_exposure": "low",
+      "corrosion_risk": "low",
+      "wear_multiplier": 1.05,
+      "notes": "Modern EMU with sealed bogies. Best-in-class environmental protection."
+    },
+    "Garib Rath": {
+      "climate_zones": ["Varied"],
+      "avg_humidity_percent": 63,
+      "avg_temp_celsius": 30,
+      "dust_exposure": "medium",
+      "corrosion_risk": "medium",
+      "wear_multiplier": 1.20,
+      "notes": "Budget express. Standard maintenance schedule."
+    },
+    "default": {
+      "climate_zones": ["Unknown"],
+      "avg_humidity_percent": 60,
+      "avg_temp_celsius": 30,
+      "dust_exposure": "medium",
+      "corrosion_risk": "medium",
+      "wear_multiplier": 1.15,
+      "notes": "Default environmental profile applied."
+    }
+  }
+}

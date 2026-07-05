@@ -1,0 +1,40 @@
+{
+  "temperature": {
+    "description": "Coach interior / equipment temperature in °C",
+    "normal_max": 40,
+    "warning_max": 55,
+    "critical_max": 70,
+    "unit": "°C"
+  },
+  "vibration": {
+    "description": "Bogie vibration level in mm/s RMS",
+    "normal_max": 4.5,
+    "warning_max": 7.0,
+    "critical_max": 10.0,
+    "unit": "mm/s RMS",
+    "standard": "ISO 10816-3"
+  },
+  "runtime_hours": {
+    "description": "Hours in service since last maintenance",
+    "normal_max": 720,
+    "warning_max": 960,
+    "critical_max": 1200,
+    "unit": "hours",
+    "note": "Standard maintenance interval is 720 hours (30 days)"
+  },
+  "humidity": {
+    "description": "Relative humidity inside coach in %",
+    "normal_max": 60,
+    "warning_max": 75,
+    "critical_max": 85,
+    "unit": "%RH"
+  },
+  "passenger_load": {
+    "description": "Passenger load as percentage of rated capacity",
+    "normal_max": 100,
+    "warning_max": 120,
+    "critical_max": 140,
+    "unit": "%",
+    "note": "Values above 100% indicate overcrowding"
+  }
+}

@@ -1,0 +1,43 @@
+coach_id,date,type,component,description,technician
+RC-1001,2023-06-15,Scheduled Overhaul,Full Coach,Complete overhaul — bogies, brakes, HVAC, wiring,Rajan Mehta
+RC-1001,2024-01-10,Corrective,Air Conditioning,Compressor replaced due to excessive noise,Suresh Kumar
+RC-1001,2024-03-22,Inspection,Bogies,Quarterly bogie inspection — minor wear on wheel flanges noted,Amit Singh
+RC-1001,2024-05-15,Corrective,Brakes,Brake shoe replacement — left side rear bogie,Rajan Mehta
+RC-1001,2024-11-02,Inspection,HVAC,Pre-winter HVAC system check — filter cleaned,Priya Nair
+RC-1002,2024-01-20,Scheduled Overhaul,Full Coach,Full maintenance overhaul completed,Vikram Patel
+RC-1002,2024-04-08,Inspection,Electrical,Wiring harness inspection — minor insulation degradation found,Suresh Kumar
+RC-1002,2024-07-15,Corrective,Pantograph,Pantograph spring tension adjusted,Amit Singh
+RC-1002,2024-10-30,Inspection,Bogies,Routine bogie check — all within tolerances,Rajan Mehta
+RC-1003,2022-11-10,Scheduled Overhaul,Full Coach,Major overhaul — wheels turned, axles checked,Vikram Patel
+RC-1003,2023-04-20,Corrective,Suspension,Primary suspension bushings replaced — excessive vibration complaint,Priya Nair
+RC-1003,2023-08-14,Inspection,Brakes,Brake cylinder pressure test — marginal performance noted,Suresh Kumar
+RC-1003,2024-02-28,Corrective,Wheels,Wheel re-profiling due to flange wear beyond limits,Rajan Mehta
+RC-1003,2024-06-10,Corrective,Doors,Sliding door mechanism repaired — passenger complaint,Amit Singh
+RC-1003,2024-09-18,Inspection,Full Coach,Comprehensive inspection before monsoon season,Vikram Patel
+RC-1004,2024-03-05,Scheduled Overhaul,Full Coach,First major overhaul — all systems nominal,Priya Nair
+RC-1004,2024-08-20,Inspection,Bogies,Routine inspection — wheel wear within acceptable range,Suresh Kumar
+RC-1005,2023-09-22,Scheduled Overhaul,Full Coach,Periodic overhaul completed,Rajan Mehta
+RC-1005,2024-02-14,Corrective,Air Conditioning,Refrigerant recharge — gradual leak from condenser,Amit Singh
+RC-1005,2024-07-05,Inspection,Electrical,Lighting circuit inspection — 3 LED fixtures replaced,Vikram Patel
+RC-1005,2024-11-15,Corrective,Bogies,Damper replacement — right side front bogie,Priya Nair
+RC-1006,2023-04-18,Scheduled Overhaul,Full Coach,Mid-life overhaul completed,Suresh Kumar
+RC-1006,2023-10-30,Corrective,Kitchen Equipment,Gas stove ignition system overhauled,Rajan Mehta
+RC-1006,2024-04-22,Inspection,Electrical,Food service electrical panel inspection,Amit Singh
+RC-1006,2024-08-12,Corrective,Water Supply,Water pump motor replaced,Vikram Patel
+RC-1007,2022-08-30,Scheduled Overhaul,Full Coach,Full overhaul — significant wheel and brake work required,Priya Nair
+RC-1007,2023-03-15,Corrective,Wheels,Emergency wheel replacement — heat crack detected,Suresh Kumar
+RC-1007,2023-09-28,Corrective,Brakes,Complete brake rigging overhaul,Rajan Mehta
+RC-1007,2024-03-10,Inspection,Bogies,Bogie inspection — axle box bearing play noted,Amit Singh
+RC-1007,2024-07-22,Corrective,Axle Bearings,Axle box bearing replacement — 4 bogies,Vikram Patel
+RC-1007,2024-11-05,Inspection,Full Coach,Pre-winter comprehensive inspection,Priya Nair
+RC-1008,2024-05-10,Scheduled Overhaul,Full Coach,First overhaul — new coach in excellent condition,Suresh Kumar
+RC-1009,2023-12-01,Scheduled Overhaul,Full Coach,Periodic overhaul completed,Rajan Mehta
+RC-1009,2024-05-18,Corrective,Air Conditioning,AC inverter replaced — intermittent failure,Amit Singh
+RC-1009,2024-09-30,Inspection,Bogies,Routine inspection — nominal,Vikram Patel
+RC-1010,2022-05-15,Scheduled Overhaul,Full Coach,Major overhaul — high-mileage coach,Priya Nair
+RC-1010,2022-11-28,Corrective,Wheels,Wheel re-profiling — significant flange wear,Suresh Kumar
+RC-1010,2023-05-10,Corrective,Suspension,Full suspension overhaul — multiple worn components,Rajan Mehta
+RC-1010,2023-10-20,Corrective,Brakes,Brake rigging complete replacement,Amit Singh
+RC-1010,2024-04-15,Inspection,Bogies,Critical bogie inspection — hairline crack found in side frame,Vikram Patel
+RC-1010,2024-05-02,Corrective,Bogies,Bogie side frame replacement — crack confirmed NDT,Priya Nair
+RC-1010,2024-09-08,Inspection,Full Coach,Post-repair comprehensive inspection,Suresh Kumar

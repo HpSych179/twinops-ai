@@ -1,0 +1,24 @@
+coach_id,date,fault_code,description,severity,resolved
+RC-1001,2024-01-08,F-AC-001,Air conditioning compressor abnormal noise above 85°C ambient,High,true
+RC-1001,2024-03-20,F-BK-003,Minor brake fade detected during high-speed test,Medium,true
+RC-1001,2024-10-15,F-VB-002,Elevated vibration reading at 62 km/h — wheel flat suspected,Medium,true
+RC-1002,2024-04-05,F-EL-007,Intermittent lighting failure — compartment 4,Low,true
+RC-1002,2024-10-28,F-BG-001,Slight bogie hunting at speeds above 110 km/h,Low,true
+RC-1003,2023-04-18,F-VB-005,Excessive vibration 14.2 mm/s — primary suspension failure,High,true
+RC-1003,2023-08-12,F-BK-008,Brake cylinder pressure drop below minimum — 2 cylinders,High,true
+RC-1003,2024-02-25,F-WH-002,Wheel flange wear code WF-3 — exceeds 5mm limit,High,true
+RC-1003,2024-09-15,F-AC-003,AC condenser leak — R134a refrigerant loss detected,Medium,true
+RC-1005,2024-02-10,F-AC-002,Slow refrigerant leak — condenser joint degradation,Medium,true
+RC-1005,2024-11-12,F-BG-004,Right front bogie damper oil leak — replacement required,High,true
+RC-1006,2023-10-27,F-KT-001,Gas ignition failure — pantry car safety shutdown triggered,Medium,true
+RC-1006,2024-08-10,F-WT-002,Water pump motor overheating — supply interrupted,Medium,true
+RC-1007,2023-03-10,F-WH-007,Thermal crack detected on wheel tread — wheel RC-1007-A4,Critical,true
+RC-1007,2023-09-24,F-BK-011,Complete brake rigging failure — emergency repair required,Critical,true
+RC-1007,2024-03-08,F-BG-009,Axle box bearing excessive play — safety limit exceeded,High,true
+RC-1007,2024-11-01,F-VB-008,Vibration levels persistently above 8.5 mm/s — all speeds,Medium,false
+RC-1009,2024-05-15,F-AC-009,AC inverter intermittent fault — zone B cooling failure,Medium,true
+RC-1010,2022-11-24,F-WH-003,Severe wheel flange wear — multiple axles affected,High,true
+RC-1010,2023-05-05,F-SU-004,Multiple suspension component failures — coach grounded,Critical,true
+RC-1010,2023-10-18,F-BK-015,Complete brake rigging wear — emergency replacement,High,true
+RC-1010,2024-04-12,F-BG-014,Hairline crack confirmed in bogie side frame — NDT positive,Critical,true
+RC-1010,2024-04-14,F-BG-014B,Coach withdrawn from service for bogie frame replacement,Critical,true
