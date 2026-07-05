@@ -124,6 +124,7 @@ Generates a professional Markdown engineering report combining structured sectio
  <img width="1918" height="870" alt="Image" src="https://github.com/user-attachments/assets/b490200b-e4b0-4aff-a63f-a10dbffc2565" />
 > *[Full engineering report with maintenance history table]*
 > https://github.com/user-attachments/assets/d5521816-1fda-4bc6-be31-f3ee41323035
+
 > *[Agent execution timeline showing all 6 agents]*
 <img width="1906" height="857" alt="Image" src="https://github.com/user-attachments/assets/ab512df7-4e27-456d-b84d-3846e65de7d3" />
 > *Dashboard*
