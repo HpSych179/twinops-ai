@@ -121,6 +121,9 @@ Generates a professional Markdown engineering report combining structured sectio
 > *[Screenshot: Dashboard — critical coach with red risk indicators and STOP decision]*  
 > *[Screenshot: Full engineering report with maintenance history table]*  
 > *[Screenshot: Agent execution timeline showing all 6 agents]*
+> <img width="1918" height="865" alt="Image" src="https://github.com/user-attachments/assets/d4707772-4a87-41e6-bc34-e6980f4c682e" />
+
+<img width="1918" height="865" alt="Image" src="https://github.com/user-attachments/assets/df1bf1c1-a42b-4bb8-b763-943fefb2aa3f" />
 
 ---
 
